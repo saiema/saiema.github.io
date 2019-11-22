@@ -1,7 +1,6 @@
 #### [Publications](/publications)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [Teaching](/teaching)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
 ---
-## Publications
 
 ## Journals
 
