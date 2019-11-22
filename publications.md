@@ -3,11 +3,15 @@
 ---
 ## Publications
 
+## Journals
+
 ### 2019
 
 #### [An evolutionary approach to translating operational specifications into declarative specifications.]
 <br>
 Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo Frias. - Science of Computer Programming, Volume 181.
+
+## Conferences
 
 ### 2017
 
