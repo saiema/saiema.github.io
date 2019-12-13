@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <br><br>
 
-  :mail: <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">Email Me</a> 
+  <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">:e-mail:</a> 
 
 
 theme: jekyll-theme-minimal
