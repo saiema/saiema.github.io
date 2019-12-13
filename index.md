@@ -3,8 +3,9 @@
 ---
 
 
-Computer Science Phd student.
-Teaching Assistan of Introduction to Programming at the Computer Science Department, University of Rio Cuarto.
+Computer Science Phd student. 
+
+Teaching Assistan of Introduction to Programming at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
 
 
 
@@ -13,7 +14,7 @@ Teaching Assistan of Introduction to Programming at the Computer Science Departm
 <div style="text-align: justify"> 
 	
 
-I am a [CONICET](https://www.conicet.gov.ar) funded PhD student at the Software Engineering and Formal Methods Group working under the supervision of Professor German Regis.
+I am a [CONICET](https://www.conicet.gov.ar) funded PhD student at the [Software Engineering and Formal Methods Group](http://diogenes.dc.exa.unrc.edu.ar/research/) working under the supervision of Professor German Regis.
 
 
 </div>
