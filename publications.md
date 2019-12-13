@@ -4,6 +4,8 @@
 
 ## Journals
 
+---
+
 ### 2019
 
 #### *An evolutionary approach to translating operational specifications into declarative specifications.*
@@ -13,6 +15,8 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 ---
 
 ## Conferences
+
+---
 
 ### 2017
 
@@ -33,6 +37,8 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 ---
 
 ## Popular Science
+
+---
 
 ### 2019
 
