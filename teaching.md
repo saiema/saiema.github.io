@@ -10,7 +10,7 @@
 
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2019<br>
-Teaching Assistant in the course Introduction to Algorithmic and Programming.
+Teaching Assistant in the course Introduction to Programming.
 
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2018<br>
@@ -21,11 +21,11 @@ Teaching Assistant in the course Automatons and Languages.
 <br>
 Teaching Assistant in the courses: 
 <br>
-Automatons and Languages, and Introduction to Algorithmic and Programming.
+Automatons and Languages, and Introduction to Programming.
 
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2016<br>
-Teaching Assistant in the course Introduction to Algorithmic and Programming.
+Teaching Assistant in the course Introduction to Programming.
 
 ---
 
