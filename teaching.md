@@ -9,8 +9,9 @@
 ### Teaching Assitant
 
 
-* Undergraduate course, University of Río Cuarto, Computer Science Department, 2019<br>
-Teaching Assistant in the course Introduction to Programming.
+> Undergraduate course, University of Río Cuarto, Computer Science Department, 2019<br>
+> Teaching Assistant in the course:
+> - Introduction to Programming.
 
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2018<br>
