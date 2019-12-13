@@ -1,5 +1,6 @@
 #### [Publications](/publications)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [Teaching](/teaching)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
+---
 
 ## Teaching
 
@@ -24,6 +25,8 @@ Teaching Assistant in the courses: Automatons and Languages; Introduction to Alg
 
 Undergraduate course, University of Río Cuarto, Computer Science Department, 2016<br>
 Teaching Assistant in the course Introduction to Algorithmic and Programming.
+
+---
 
 ### Student Teaching Assitant
 
