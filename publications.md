@@ -10,6 +10,8 @@
 <br>
 Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo Frias. - Science of Computer Programming, Volume 181.
 
+---
+
 ## Conferences
 
 ### 2017
@@ -27,6 +29,8 @@ Germán Regis (UNRC), César Cornejo (UNRC), Simón Gutiérrez Brida (UNRC),
 #### [An Evolutionary Approach to Translate Operational Specifications into Declarative Specifications.]
 <br>
 Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro, Nazareno Aguirre, Marcelo Frias. - 19th Brazilian Symposium, SBMF 2016, Natal, Brazil.
+
+---
 
 ## Popular Science
 
