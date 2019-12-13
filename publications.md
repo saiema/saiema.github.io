@@ -44,10 +44,12 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 
 #### *Un análisis preliminar sobre reparación de modelos Alloy utilizando Sketching.*
 
-César Cornejo, Germán Regis, Nazareno Aguirre. - Congreso Argentino de Ciencias de la Computación 2019 (CACIC 2019).
+César Cornejo, Germán Regis, Nazareno Aguirre. - Congreso Argentino de Ciencias de la Computación 2019.
 
 ### 2015
 
 #### *Analizando el uso de (Dyn) Alloy como herramienta educativa.*
 
-César Cornejo, Mariano Politano, Fernando Raverta, Sonia Permigiani, Pablo Daniel Ponzio, Germán Regis, Nazareno Matías Aguirre. - Congreso Argentino de Ciencias de la Computación 2015
+César Cornejo, Mariano Politano, Fernando Raverta, Sonia Permigiani, Pablo Daniel Ponzio, Germán Regis, Nazareno Matías Aguirre. - Congreso Argentino de Ciencias de la Computación 2015.
+
+---

@@ -8,6 +8,7 @@
 
 ### Teaching Assitant
 
+---
 
 > **2019** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
@@ -30,6 +31,7 @@
 
 ### Student Teaching Assitant
 
+---
 
 > **2016** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
@@ -48,3 +50,5 @@
 > **2013** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Introduction to Processor Organization.
+
+---
