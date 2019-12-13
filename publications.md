@@ -22,7 +22,7 @@ Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degi
 
 #### *DynAlloy Analyzer: A Tool for the Specification and Analysis of Alloy Models with Dynamic Behaviour.*
 
-Germán Regis (UNRC), César Cornejo (UNRC), Simón Gutiérrez Brida (UNRC), Mariano Politano (UNRC), Fernando Raverta (UNC), Pablo Ponzio (UNRC), Nazareno Aguirre (UNRC), Juan Pablo Galeotti, (UBA) y Marcelo Frias (ITBA) - 11th Joint meeting of the European Software Engineering Conference and the ACM Sigsoft Symposium on the Foundations of Software Engineering – ESEC/FSE 2017 - Paderborn, Alemania
+Germán Regis, César Cornejo, Simón Gutiérrez Brida, Mariano Politano, Fernando Raverta, Pablo Ponzio, Nazareno Aguirre, Juan Pablo Galeotti y Marcelo Frias. - 11th Joint meeting of the European Software Engineering Conference and the ACM Sigsoft Symposium on the Foundations of Software Engineering – ESEC/FSE 2017 - Paderborn, Alemania
 
 ### 2016
 
