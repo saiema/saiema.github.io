@@ -19,7 +19,9 @@ Teaching Assistant in the course Automatons and Languages.
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2017
 <br>
-Teaching Assistant in the courses: Automatons and Languages; Introduction to Algorithmic and Programming.
+Teaching Assistant in the courses: 
+<br>
+Automatons and Languages, and Introduction to Algorithmic and Programming.
 
 
 * Undergraduate course, University of Río Cuarto, Computer Science Department, 2016<br>
