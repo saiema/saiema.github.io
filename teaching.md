@@ -2,10 +2,6 @@
 
 ---
 
-## Teaching
-
----
-
 ### Teaching Assitant
 
 ---
