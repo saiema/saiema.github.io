@@ -14,7 +14,7 @@ Teaching Assistan of Introduction to Programming at the [Computer Science Depart
 <div style="text-align: justify"> 
 	
 
-I am a [CONICET](https://www.conicet.gov.ar) funded PhD student at the [Software Engineering and Formal Methods Group](http://diogenes.dc.exa.unrc.edu.ar/research/) working under the supervision of Professor German Regis.
+I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at the [Software Engineering and Formal Methods Group](http://diogenes.dc.exa.unrc.edu.ar/research/) working under the supervision of Professor German Regis.
 
 
 </div>
