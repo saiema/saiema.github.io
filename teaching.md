@@ -9,23 +9,17 @@
 ### Teaching Assitant
 
 
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2019<br>
+> 2019 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Introduction to Programming.
-
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2018
+> 2018 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Automatons and Languages.
-
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2017
+> 2017 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the courses: 
 > - Automatons and Languages.
 > - Introduction to Programming.
-
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2016
+> 2016 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Introduction to Programming.
 
@@ -34,21 +28,17 @@
 ### Student Teaching Assitant
 
 
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2016
+> 2016 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Introduction to Database.
-
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2015
+> 2015 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the courses:
 > - Software Engineering.
 > - Analysis and Design of Systems.
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2014
+> 2014 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the courses:
 > - Software Engineering.
 > - Introduction to Advanced Programming.
-
-> Undergraduate course, University of Río Cuarto, Computer Science Department, 2013
+> 2013 - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
 > - Introduction to Processor Organization.
