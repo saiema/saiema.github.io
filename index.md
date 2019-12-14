@@ -5,7 +5,7 @@
 
 * **Computer Science Phd student.** 
 
-* **Teaching Assistan** of *Introduction to Programming* at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
+* **Teaching Assistant** of *Introduction to Programming* at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
 
 ---
 
