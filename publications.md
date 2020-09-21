@@ -18,6 +18,12 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 
 ---
 
+### 2020
+
+#### [*SAT-Based Arithmetic Support for Alloy.*](/ASE20DocSym.pdf)
+
+César Cornejo - Doctoral Symposium - 35th IEEE/ACM International Conference on Automated Software Engineering - ASE2020 - Melbourne, Australia. Virtual Event
+
 ### 2017
 
 #### *An Analysis of the Suitability of Test-Based Patch Acceptance Criteria.*
