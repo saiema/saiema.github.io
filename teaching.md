@@ -6,22 +6,30 @@
 
 ---
 
+> **2020** - Undergraduate course, University of Río Cuarto, Computer Science Department,
+> Teaching Assistant in the course:
+> - Algoritmos 1 (Algorithms 1).
+
 > **2019** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
-> - Introduction to Programming.
+> - Complejidad y Computabilidad (Computability and Complexity).
 
 > **2018** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
-> - Automatons and Languages.
+> - Algoritmos 2 (Algorithms 2).
 
 > **2017** - Undergraduate course, University of Río Cuarto, Computer Science Department,
-> Teaching Assistant in the courses: 
-> - Automatons and Languages.
-> - Introduction to Programming.
+> Teaching Assistant in the course:
+> - Algoritmos 2 (Algorithms 2).
 
 > **2016** - Undergraduate course, University of Río Cuarto, Computer Science Department,
+> Teaching Assistant in the courses:
+> - Algoritmos 2 (Algorithms 2).
+> - Ingeniería de software distribuida y terciarizada (Distributed and Outsourced Software Engineering).
+
+> **2015** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
-> - Introduction to Programming.
+> - Ingeniería de software distribuida y terciarizada (Distributed and Outsourced Software Engineering).
 
 ---
 
@@ -29,22 +37,17 @@
 
 ---
 
-> **2016** - Undergraduate course, University of Río Cuarto, Computer Science Department,
-> Teaching Assistant in the course:
-> - Introduction to Database.
-
-> **2015** - Undergraduate course, University of Río Cuarto, Computer Science Department,
+> **2011-2012** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the courses:
-> - Software Engineering.
-> - Analysis and Design of Systems.
+> - Algoritmos 1 (Algorithms 1).
+> - Algoritmos 2 (Algorithms 2).
 
-> **2014** - Undergraduate course, University of Río Cuarto, Computer Science Department,
-> Teaching Assistant in the courses:
-> - Software Engineering.
-> - Introduction to Advanced Programming.
-
-> **2013** - Undergraduate course, University of Río Cuarto, Computer Science Department,
+> **2010-2011** - Undergraduate course, University of Río Cuarto, Computer Science Department,
 > Teaching Assistant in the course:
-> - Introduction to Processor Organization.
+> - Introducción a la Algorítmica y Programación (Introduction to Programming).
+
+> **2008-2009** - Undergraduate course, University of Río Cuarto, Computer Science Department,
+> Teaching Assistant in the course:
+> - Introducción a la Algorítmica y Programación (Introduction to Programming).
 
 ---
