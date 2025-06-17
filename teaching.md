@@ -9,6 +9,11 @@
 > - Introduction to Systems Programming (104824), second semester.
 > - Computer Organization and Programming (104818), first and second semesters.
 > - Digital Systems and Computer Structure (104952), first semester.
+>
+> **2025** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
+> Lecturer in courses:
+> - Introduction to Systems Programming (104824), first semester.
+> - Computer Organization and Programming (104818), first semester.
 
 ---
 
