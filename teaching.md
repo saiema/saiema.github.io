@@ -1,29 +1,46 @@
 #### [Publications](/publications)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; [Teaching](/teaching)&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
+### Professor
+
+> **2026** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
+> Professor in courses:
+> - Reparación Automática de Software (3404), second semester.
+
 ---
 
 ### Sessional Faculty
+
+
+> **2026** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
+> Lecturer in courses:
+> - Combinatorial Algorithms (104291), first semester.
+> - Computer Organization and Programming (104818), first semester.
+
+> **2025** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
+> Lecturer in courses:
+> - Introduction to Systems Programming (104824), first semester.
+> - Computer Organization and Programming (104818), first semester.
 
 > **2023** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
 > Lecturer in courses:
 > - Introduction to Systems Programming (104824), second semester.
 > - Computer Organization and Programming (104818), first and second semesters.
 > - Digital Systems and Computer Structure (104952), first semester.
->
-> **2025** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
-> Lecturer in courses:
-> - Introduction to Systems Programming (104824), first semester.
-> - Computer Organization and Programming (104818), first semester.
 
 ---
 
-### Teaching Assitant
+### Teaching Assistant
 
 ---
+
+> **2025** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
+> Teaching Assistant in course:
+> - Proyecto, second semester.
 
 > **2024** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
 > Teaching Assistant in course:
-> - Introducción a los algoritmos.
+> - Introducción a los algoritmos, first semester.
+> - Proyecto, second semester.
 
 > **2023** - Undergraduate course, Guangdong Technion-Israel Institute of Technology, Shantou, Guangdong Province, China
 > Teaching Assistant in courses:
@@ -31,12 +48,12 @@
 
 > **2022** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
 > Teaching Assistant in courses:
-> - Programación Avanzada (Advance Programming)
+> - Programación Avanzada (Advance Programming).
 > - Algoritmos 1 (Algorithms 1).
 
 > **2021** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
 > Teaching Assistant in courses:
-> - Programación Avanzada (Advance Programming)
+> - Programación Avanzada (Advance Programming).
 > - Algoritmos 1 (Algorithms 1).
 
 > **2020** - Undergraduate course, University of Río Cuarto, Computer Science Department, Río Cuarto, Córdoba, Argentina.
