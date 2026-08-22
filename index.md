@@ -5,7 +5,7 @@
 
 * **Computer Science Phd.** 
 
-* **Teaching Assistant** of *Introducción a los algoritmos* at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
+* **Professor** of *Reparación Automática de Software* at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
 
 ---
 
